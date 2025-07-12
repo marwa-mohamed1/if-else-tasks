@@ -34,4 +34,5 @@ Prompts the user to enter a number from 1 to 7 and displays the corresponding da
 | 3     | Monday     |
 | 4     | Tuesday    |
 | 5     | Wednesday  |
-| 6
+| 6     | Thursday   |
+| 7     | Friday     |
