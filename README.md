@@ -1,10 +1,3 @@
-# 🌟 C++ Conditional Programs for Beginners
-
-This repository contains beginner-friendly C++ programs demonstrating the use of basic conditional statements like `if`, `else if`, and `else`. These simple logic-based examples are great for practicing decision-making and user input.
-
----
-
-## 📂 Program List
 
 ### ✅ 1. Check If a Number is Even or Odd  
 📄 **Filename:** `even or odd.cpp`  
